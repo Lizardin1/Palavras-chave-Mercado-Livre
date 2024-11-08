@@ -18,7 +18,8 @@
 ### Integração:
   - Abra o aplicativo e clique em "CONECTAR". Uma nova janela será exibida para que você se conecte à conta do Mercado Livre onde deseja atualizar as palavras-chave.
   - Após a conexão, você poderá adicionar automaticamente as palavras-chave mais procuradas diretamente nos seus anúncios.
-    ![Conectar](https://github.com/user-attachments/assets/2f6717c1-e3bf-4481-8376-612cc56008e1)
+    <br/>
+    ![Busca](https://github.com/user-attachments/assets/c74397c0-2646-4dc0-8585-9b3b6d5deaa9)
     ![Integracao](https://github.com/user-attachments/assets/5605eef8-3f34-4c2e-b5e6-2ece03e8a871)
 
 
