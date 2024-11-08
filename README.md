@@ -32,7 +32,7 @@
   ![Busca](https://github.com/user-attachments/assets/1412d233-1a15-4fbd-94fc-d75154b7ef8e)
   ![excel](https://github.com/user-attachments/assets/e770567a-f5b7-4bac-ac05-e9d636e60875)
 
-  - No segundo campo, insira o MLB do anúncio onde deseja aplicar as palavras-chave encontradas para otimizar sua visibilidade!
+  - No segundo campo, insira o MLB do anúncio onde deseja aplicar as palavras-chave encontradas e clique em "INSERIR". Um Pop-up sera aberto indicando que deu tudo certo na atualização!
 
 ### Funcionamento e Regras:
   - As palavras-chave listadas são inseridas automaticamente nos campos "MARCA" e "MODELO" do anúncio, pois são utilizados pelo Mercado Livre para aprimorar as buscas dos usuários, além do título do produto.
