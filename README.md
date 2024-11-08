@@ -14,6 +14,8 @@ Garanta uma vantagem competitiva com palavras-chave sempre atualizadas! Nosso so
 ### Pesquisa e Atualização de Palavras-chave:
   - No primeiro campo, insira o MLB do anúncio que deseja analisar. O software irá buscar as palavras mais pesquisadas na última semana para a categoria desse anúncio.
   - Clique em "BUSCAR" para listar as palavras-chave relevantes, que aparecerão logo abaixo. Você poderá copiá-las diretamente ou exportá-las para um arquivo Excel com links de pesquisa.
+  <br/>
+
   ![Busca](https://github.com/user-attachments/assets/1412d233-1a15-4fbd-94fc-d75154b7ef8e)
   ![excel](https://github.com/user-attachments/assets/e770567a-f5b7-4bac-ac05-e9d636e60875)
 
@@ -26,7 +28,9 @@ Garanta uma vantagem competitiva com palavras-chave sempre atualizadas! Nosso so
 
 ### Exemplos:
   - Sem atualização:
+  <br/>
   ![SemPalavras](https://github.com/user-attachments/assets/b07f4a60-858a-49da-9fb9-3884e125773d)
 
   - Anúncio atualizado:
+  <br/>
   ![ComPalavras](https://github.com/user-attachments/assets/4f1952df-7605-41b0-8857-cf52fc9fc69a)
