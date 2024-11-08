@@ -1,6 +1,17 @@
 # Palavras-chave Mercado Livre
 
-#### Mantenha-se sempre à frente da concorrência com palavras-chave atualizadas semanalmente! Nosso software identifica os termos mais buscados no Mercado Livre e os aplica diretamente nos seus anúncios selecionados. Aproveite as tendências de pesquisa em tempo real para atrair mais clientes e aumentar suas vendas de forma eficiente!
+#### Mantenha seus Anúncios Sempre no Topo das Buscas!
+
+  - Nosso software foi desenvolvido para que você esteja sempre um passo à frente da concorrência no Mercado Livre! Com ele, você terá acesso às palavras-chave mais buscadas no marketplace e poderá aplicá-las automaticamente nos anúncios que escolher, tudo de forma prática e rápida.
+
+### Principais Benefícios:
+  - Palavras-chave Atualizadas Semanalmente: Garanta que seus anúncios estejam sempre alinhados com as tendências de pesquisa mais recentes.
+
+  - Atraia Mais Clientes: Ao usar termos que estão em alta, seu anúncio se torna mais relevante para os compradores, aumentando suas chances de venda.
+
+  - Ajustes Rápidos e Eficientes: Escolha os anúncios que deseja otimizar, e o software aplica as palavras-chave de forma automática.
+
+
 
 ## Modo de Uso:
 
