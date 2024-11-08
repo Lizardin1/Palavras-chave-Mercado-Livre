@@ -29,8 +29,10 @@ Garanta uma vantagem competitiva com palavras-chave sempre atualizadas! Nosso so
 ### Exemplos:
   - Sem atualização:
   <br/>
+  
   ![SemPalavras](https://github.com/user-attachments/assets/b07f4a60-858a-49da-9fb9-3884e125773d)
 
   - Anúncio atualizado:
   <br/>
+  
   ![ComPalavras](https://github.com/user-attachments/assets/4f1952df-7605-41b0-8857-cf52fc9fc69a)
