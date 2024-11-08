@@ -4,7 +4,7 @@
 
   - Nosso software foi desenvolvido para que você esteja sempre um passo à frente da concorrência no Mercado Livre! Com ele, você terá acesso às palavras-chave mais buscadas no marketplace e poderá aplicá-las automaticamente nos anúncios que escolher, tudo de forma prática e rápida.
 
-### Principais Benefícios:
+#### Principais Benefícios:
   - Palavras-chave Atualizadas Semanalmente: Garanta que seus anúncios estejam sempre alinhados com as tendências de pesquisa mais recentes.
 
   - Atraia Mais Clientes: Ao usar termos que estão em alta, seu anúncio se torna mais relevante para os compradores, aumentando suas chances de venda.
