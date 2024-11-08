@@ -33,6 +33,7 @@
   ![excel](https://github.com/user-attachments/assets/e770567a-f5b7-4bac-ac05-e9d636e60875)
 
   - No segundo campo, insira o MLB do anúncio onde deseja aplicar as palavras-chave encontradas e clique em "INSERIR". Um Pop-up sera aberto indicando que deu tudo certo na atualização!
+    <br/>
   ![Atualizado](https://github.com/user-attachments/assets/fa5b9487-04fd-49c8-827d-e50b38c4013f)
 
 
