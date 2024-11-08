@@ -32,7 +32,7 @@
   ![Busca](https://github.com/user-attachments/assets/1412d233-1a15-4fbd-94fc-d75154b7ef8e)
   ![excel](https://github.com/user-attachments/assets/e770567a-f5b7-4bac-ac05-e9d636e60875)
 
-  - É possivel selecionar se insersão das palavras-chave deve ser feita apenas no campo "MARCA", apenas no campo "MODELO", ou em ambos.
+  - É possivel selecionar se inserção das palavras-chave deve ser feita apenas no campo "MARCA", apenas no campo "MODELO", ou em ambos.
     <br/>
   ![Select](https://github.com/user-attachments/assets/2477a476-aa40-41d6-8364-4bb797495a91)
 
