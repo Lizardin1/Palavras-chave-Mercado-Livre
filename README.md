@@ -32,6 +32,11 @@
   ![Busca](https://github.com/user-attachments/assets/1412d233-1a15-4fbd-94fc-d75154b7ef8e)
   ![excel](https://github.com/user-attachments/assets/e770567a-f5b7-4bac-ac05-e9d636e60875)
 
+  - É possivel selecionar se insersão das palavras-chave deve ser feita apenas no campo "MARCA", apenas no campo "MODELO", ou em ambos.
+  <br/>
+  ![Select](https://github.com/user-attachments/assets/2477a476-aa40-41d6-8364-4bb797495a91)
+
+      
   - No segundo campo, insira o MLB do anúncio onde deseja aplicar as palavras-chave encontradas e clique em "INSERIR". Um Pop-up sera aberto indicando que deu tudo certo na atualização!
     <br/>
   ![Atualizado](https://github.com/user-attachments/assets/fa5b9487-04fd-49c8-827d-e50b38c4013f)
