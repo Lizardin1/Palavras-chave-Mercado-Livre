@@ -36,7 +36,7 @@
   - As palavras-chave listadas são inseridas automaticamente nos campos "MARCA" e "MODELO" do anúncio, pois são utilizados pelo Mercado Livre para aprimorar as buscas dos usuários, além do título do produto.
   - Cada campo permite até 255 caracteres, portanto, o software organiza as palavras mais buscadas para que se ajustem a essa limitação de forma eficiente.
   - Importante: Qualquer anúncio pode ser analisado, mas apenas anúncios fora de catálogo podem ser atualizados.
-  - #### As palavras-chave, são as mais buscada da CATEGORIA que seu anúncio está, então caso seu anúncio esteja na categoria errada
+  - #### As palavras-chave, são as mais buscada da CATEGORIA que seu anúncio está, então caso seu anúncio esteja na categoria errada serão buscadas as palavras da mesma.
 
 ### Exemplos:
   - Sem atualização:
