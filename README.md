@@ -1,6 +1,6 @@
 # Palavras-chave Mercado Livre
 
-#### Mantenha seus Anúncios Sempre no Topo das Buscas!
+#### Mantenha seus Anúncios Sempre no Topo das Buscas COM 2 CLIQUES!
 
   - Nosso software foi desenvolvido para que você esteja sempre um passo à frente da concorrência no Mercado Livre! Com ele, você terá acesso às palavras-chave mais buscadas no marketplace e poderá aplicá-las automaticamente nos anúncios que escolher, tudo de forma prática e rápida.
 
